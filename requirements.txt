@@ -1,0 +1,9 @@
+# Section for versioned requirements
+git+git://github.com/elastic/elasticsearch-py.git@b9ba12977fcd48f6eafd3bdf4c9d895b3a46b966#egg=FixUnboundError
+pandas==0.19.2
+numpy==1.11.3
+tqdm==4.10.0
+matplotlib==1.5.3
+pattern==2.6
+nltk==3.2.2
+PyDictionary
